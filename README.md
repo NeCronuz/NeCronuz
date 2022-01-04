@@ -1,3 +1,4 @@
 Hi i NeCronuz
 
-I'm currently teaching Java 
+I'm currently studying Java
+
